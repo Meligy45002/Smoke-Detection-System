@@ -1,4 +1,5 @@
 🔥 Smoke Detection System using Machine Learning
+
 📌 Overview
 This project focuses on building a machine learning model to predict fire alarms using real-world sensor data. The system analyzes environmental readings to determine whether a fire alarm should be triggered, supporting early detection and safety monitoring.
 
